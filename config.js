@@ -91,22 +91,10 @@ const config = {
             to: "https://blog.umutk.codes",
         },
         {
-            name: "Me",
-            description: "Tailwind Tasarım Denemesi",
-            status: 3,
-            to: "https://me.umutk.codes",
-        },
-        {
             name: "Levyoner Code Share",
             description: "insanların birbirleriyle kod paylaşabileceği bir paylaşım merkezi",
             status: 1,
             to: "https://levyoner-codeshare.herokuapp.com",
-        },
-        {
-            name: "Kadın Cinayetleri Anıtı",
-            description: "ŞİDDETTEN ÖLEN KADINLAR İÇİN DİJİTAL ANIT",
-            status: 3,
-            to: "https://kadincinayetlerianiti.herokuapp.com",
         },
         {
             name: "Para Harca",
