@@ -17,12 +17,12 @@ class Layout extends React.Component {
 
                 <meta property="og:title" content={config.about.title} />
                 <meta property="og:type" content="website" />
-                <meta property="og:url" content="https://umutk.dev" />
+                <meta property="og:url" content="https://umutk.codes" />
                 <meta property="og:image" content="/img/DarkModeUK.jpg" />
                 <meta property="og:description" content={config.about.description} />
                 
-                <meta name="twitter:site" content="@umutk" />
-                <meta name="twitter:creator" content="@umutk" />
+                <meta name="twitter:site" content="@UmutKDev" />
+                <meta name="twitter:creator" content="@UmutKDev" />
                 <meta name="twitter:title" content={config.about.title} />
                 <meta name="twitter:description" content={config.about.description} />
                 <meta name="twitter:image" content="/img/DarkModeUK.jpg" />
