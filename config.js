@@ -87,7 +87,7 @@ const config = {
         {
             name: "Blog",
             description: "Kendime İçin Yaptığım Dinamik Bir Blog",
-            status: 4,
+            status: 3,
             to: "https://blog.umutk.codes",
         },
         {
