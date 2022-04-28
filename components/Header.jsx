@@ -21,7 +21,6 @@ class Layout extends React.Component {
                 <meta property="og:image" content="/img/DarkModeUK.jpg" />
                 <meta property="og:description" content={config.about.description} />
                 
-                <meta name="twitter:card" content="summary_large_image" />
                 <meta name="twitter:site" content="@umutk" />
                 <meta name="twitter:creator" content="@umutk" />
                 <meta name="twitter:title" content={config.about.title} />
