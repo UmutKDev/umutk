@@ -97,9 +97,15 @@ const config = {
             to: "https://levyoner-codeshare.herokuapp.com",
         },
         {
+            name: "Quick Feels Good",
+            description: "Get Quick Feels good right now buddy",
+            status: 1,
+            to: "https://quickfeelsgood.umutk.codes/",
+        },
+        {
             name: "Para Harca",
             description: "Bir Para Haracama Uygulaması",
-            status: 3,
+            status: 1,
             to: "https://paraharca.umutk.codes/",
         },
         {
