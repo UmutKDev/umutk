@@ -38,11 +38,11 @@ class Project extends React.Component {
     render() {
         const { project } = this.props;
         return (
-            <Ripples className="transition duration-150 transform rounded-md shadow hover:-translate-y-1 block dark:bg-neutral-800 dark:border-gray-700 dark:hover:bg-neutral-700" during={900}>
+            <Ripples className="transition duration-150 transform rounded-md shadow hover:-translate-y-1 block bg-neutral-800 border-gray-700 hover:bg-neutral-700" during={900}>
                 <a href={project.to} className="flex flex-wrap w-screen max-h-max px-4 py-4 rounded-md">
                     <div className="flex w-full">
                         <div className="w-full">
-                            <h5 className="mb-2 text-base font-bold tracking-tight text-gray-700 dark:text-white">{project.name}
+                            <h5 className="mb-2 text-base font-bold tracking-tight text-white">{project.name}
                                 {project.status && (
                                     <span className={`ml-2 text-xs font-semibold mr-2 px-2.5 py-0.5 backdrop-opacity-10 rounded ${STATUS_LIST[project.status - 1].bg} ${STATUS_LIST[project.status - 1].text}`}>{STATUS_LIST[project.status - 1].name}</span>
                                 )}
