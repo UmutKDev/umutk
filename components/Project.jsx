@@ -44,7 +44,7 @@ class Project extends React.Component {
                         <div className="w-full">
                             <h5 className="mb-2 text-base font-bold tracking-tight text-white">{project.name}
                                 {project.status && (
-                                    <span className={`ml-2 text-xs font-semibold mr-2 px-2.5 py-0.5 backdrop-opacity-10 rounded ${STATUS_LIST[project.status - 1].bg} ${STATUS_LIST[project.status - 1].text}`}>{STATUS_LIST[project.status - 1].name}</span>
+                                    <span className={`ml-2 text-xs font-semibold mr-2 px-2.5 py-0.5 bg-opacity-50 rounded ${STATUS_LIST[project.status - 1].bg} ${STATUS_LIST[project.status - 1].text}`}>{STATUS_LIST[project.status - 1].name}</span>
                                 )}
                             </h5>
                         </div>
