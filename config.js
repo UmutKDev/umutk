@@ -97,16 +97,22 @@ const config = {
             to: "https://levyoner-codeshare.herokuapp.com",
         },
         {
+            name: "Para Harca",
+            description: "Bir Para Haracama Uygulaması",
+            status: 1,
+            to: "https://paraharca.umutk.codes/",
+        },
+        {
             name: "Quick Feels Good",
             description: "Get Quick Feels good right now buddy",
             status: 1,
             to: "https://quickfeelsgood.umutk.codes/",
         },
         {
-            name: "Para Harca",
-            description: "Bir Para Haracama Uygulaması",
+            name: "8ball",
+            description: "Sihirli Top",
             status: 1,
-            to: "https://paraharca.umutk.codes/",
+            to: "https://8ball.umutk.codes/",
         },
         {
             name: "Kyojinfansub",
