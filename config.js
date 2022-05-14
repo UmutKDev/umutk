@@ -82,13 +82,13 @@ const config = {
             name: "API",
             description: "Bir Çok İçeriğin Bulunduğu Bir API Servisi",
             status: 4,
-            to: "https://api.umutk.codes",
+            to: "https://api.umutk.me",
         },
         {
             name: "Blog",
             description: "Kendime İçin Yaptığım Dinamik Bir Blog",
             status: 3,
-            to: "https://blog.umutk.codes",
+            to: "https://blog.umutk.me",
         },
         {
             name: "Levyoner Code Share",
@@ -100,19 +100,19 @@ const config = {
             name: "Para Harca",
             description: "Bir Para Haracama Uygulaması",
             status: 1,
-            to: "https://paraharca.umutk.codes/",
+            to: "https://paraharca.umutk.me/",
         },
         {
             name: "Quick Feels Good",
             description: "Get Quick Feels good right now buddy",
             status: 1,
-            to: "https://quickfeelsgood.umutk.codes/",
+            to: "https://quickfeelsgood.umutk.me/",
         },
         {
             name: "8ball",
             description: "Sihirli Top",
             status: 1,
-            to: "https://8ball.umutk.codes/",
+            to: "https://8ball.umutk.me/",
         },
         {
             name: "Kyojinfansub",
