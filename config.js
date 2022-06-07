@@ -81,7 +81,7 @@ const config = {
         {
             name: "API",
             description: "Bir Çok İçeriğin Bulunduğu Bir API Servisi",
-            status: 4,
+            status: 1,
             to: "https://api.umutk.me",
         },
         {
