@@ -120,6 +120,12 @@ const config = {
             status: 3,
             to: "https://kyojinfansub.com",
         },
+        {
+            name: "Anime Site Demo",
+            description: "Bir Anime Site Demosudur",
+            status: 1,
+            to: "https://anime-demo.umutk.me",
+        },
     ],
 };
 export default config;
