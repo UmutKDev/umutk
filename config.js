@@ -4,7 +4,7 @@ const config = {
         name: "Umut Kızıloğlu",
         title: "Umut K. | Web Developer",
         job: "Junior Full Stack Developer (Student)",
-        description: "I'm Umut Kızıloğu, i'm 17 years old and i still learning for become software developer",
+        description: "I'm Umut Kızıloğu, i'm 18 years old and i still learning for become software developer",
         dateofbirth: new Date("07/22/2004"),
         socialLinks: [
             {
