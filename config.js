@@ -1,6 +1,6 @@
 const config = {
     about: {
-        image: "/img/DarkModeUK.jpg",
+        image: "/DarkModeUK.jpg",
         name: "Umut Kızıloğlu",
         title: "Umut K. | Web Developer",
         job: "Junior Full Stack Developer (Student)",
